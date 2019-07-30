@@ -1,0 +1,7 @@
+/vendor
+composer.lock
+
+# vagrant/homstead stuff
+.vagrant/
+Homestead.yaml
+Vagrantfile

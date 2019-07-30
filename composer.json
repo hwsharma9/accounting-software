@@ -1,0 +1,17 @@
+{
+    "name": "mtvee/ci3hmvc",
+    "description": "CodeIgniter 3 with HMVC",
+    "license": "MIT",
+    "keywords": ["codeigniter", "hmvc"],
+    "authors": [
+        {
+            "name": "Jimi",
+            "email": "emptyvee@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "phpoffice/phpword": "^0.16.0",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
